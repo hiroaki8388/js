@@ -1,0 +1,26 @@
+==== start log session ====
+ 37.386933 : ERROR: Error detected while processing function importjs#Goto[5]..importjs#ExecCommand:
+ 37.387129 : ERROR: line   18:
+ 37.387163 : ERROR: importjs process not running
+ 37.387263 : looking for messages on channels
+138.986864 : ERROR: E486: Pattern not found: %
+138.987967 : looking for messages on channels
+292.512218 : ERROR: Error detected while processing function importjs#Goto[5]..importjs#ExecCommand:
+292.512326 : ERROR: line   18:
+292.512354 : ERROR: importjs process not running
+292.512443 : looking for messages on channels
+52404.456578 : ERROR: E486: Pattern not found: %
+52404.459566 : looking for messages on channels
+52467.591142 : ERROR: E803: ID not found: 3
+52467.620697 : looking for messages on channels
+52501.161729 : ERROR: E486: Pattern not found: %
+52501.161813 : looking for messages on channels
+52680.148353 : ERROR: E37: No write since last change
+52680.148441 : ERROR: E162: No write since last change for buffer "clickEvent.js"
+52680.165062 : looking for messages on channels
+52681.774270 : ERROR: E37: No write since last change
+52681.774356 : ERROR: E162: No write since last change for buffer "clickEvent.js"
+52681.774458 : looking for messages on channels
+52685.918071 : ERROR: E37: No write since last change
+52685.918210 : ERROR: E162: No write since last change for buffer "/Users/hasegawahiroaki/.vimrc"
+52685.948583 : looking for messages on channels
